@@ -1,0 +1,5 @@
+gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
+3630	INS	insulin	Homo sapiens	human	9606	NC_000011.10:2159779-2161209	-	chr 11	PROTEIN_CODING	NM_000207.3	transcript variant 1	465	NM_000207.3:60-392	NP_000198.1		110	insulin preproprotein
+3630	INS	insulin	Homo sapiens	human	9606	NC_000011.10:2159779-2161209	-	chr 11	PROTEIN_CODING	NM_001185097.2	transcript variant 2	491	NM_001185097.2:86-418	NP_001172026.1		110	insulin preproprotein
+3630	INS	insulin	Homo sapiens	human	9606	NC_000011.10:2159779-2161209	-	chr 11	PROTEIN_CODING	NM_001291897.2	transcript variant 4	525	NM_001291897.2:120-452	NP_001278826.1		110	insulin preproprotein
+3630	INS	insulin	Homo sapiens	human	9606	NC_000011.10:2159779-2161209	-	chr 11	PROTEIN_CODING	NM_001185098.2	transcript variant 3	644	NM_001185098.2:239-571	NP_001172027.1		110	insulin preproprotein
